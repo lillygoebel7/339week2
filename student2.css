@@ -1,0 +1,33 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+ nav li{
+    border: 2px solid black;
+    background-color: aqua;
+    border-radius: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    padding: 15px;
+    margin: 20px;
+    width: 20%;
+    display: inline-block;
+ }
+ 
+ main img{
+    box-sizing: boarder-box;
+    width: 24%;
+    padding: 15px;
+    margin: 0;
+    border: 5px dashed green;
+ }
