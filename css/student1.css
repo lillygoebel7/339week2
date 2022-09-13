@@ -1,0 +1,16 @@
+body{
+    background-color: #edb9ce;
+}
+h1{
+    color: rgb(169, 71, 132);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    background-color: #cfa5e1;
+}
+h2{
+   background-color: rgb(249, 247, 160); 
+}
+img{
+    display: block;
+    /* must add more, not enough time*/
+}
