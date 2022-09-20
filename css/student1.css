@@ -1,8 +1,3 @@
-h1{
-    color: blue;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 200%;
-}
 body{
     margin:5px;
     padding:5px;
@@ -18,21 +13,30 @@ body{
     margin-left: 25px;
     list-style-type: upper-roman;
  }
- nav li {
-    border: 2px solid black;
+
+ nav li{
     background-color: aqua;
+    border: 2px solid black;
     border-radius: 25px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: 15px;
-    margin: 20px;
-    width: 20%;
     display: inline-block;
+    padding: 10px;
+    width:18%;
+    margin-right: 15px;
  }
 
  main img{
+    width:24%;
     box-sizing: border-box;
-    width: 24%;
-    padding: 15px;
-    margin: 0px ;
-    border: dashed 5px green;
+    padding:15px;
+    border:6px dashed green;
+    margin:0;
+ }
+
+ p{
+    line-height:2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkslategray;
+    background-color: bisque;
+    margin-bottom: 10px;
+    text-align: center;
  }
